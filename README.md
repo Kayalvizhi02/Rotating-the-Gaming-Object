@@ -61,8 +61,7 @@ public class princy : MonoBehaviour
 ```
 ## Output:
 
-![Screenshot (395)](https://user-images.githubusercontent.com/75413726/164644331-b0ca6c9b-d341-48fc-92e9-6232d595ef05.png)
-
+![image](https://user-images.githubusercontent.com/75413726/164646136-d21b5c44-7ac7-419f-9c6c-b5be7d54abbc.png)
 
 ## Result:
 
