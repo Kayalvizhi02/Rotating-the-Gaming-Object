@@ -38,6 +38,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop.
 
 ## Program:
+
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -59,9 +60,11 @@ public class princy : MonoBehaviour
 }
 
 ```
+
 ## Output:
 
 ![image](https://user-images.githubusercontent.com/75413726/164646136-d21b5c44-7ac7-419f-9c6c-b5be7d54abbc.png)
+
 
 ## Result:
 
